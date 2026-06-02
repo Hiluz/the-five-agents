@@ -1,0 +1,14 @@
+# משתני סביבה
+.env
+.env.local
+.env.*.local
+
+# מערכת
+.DS_Store
+Thumbs.db
+
+# תלויות
+node_modules/
+
+# לוגים
+*.log
